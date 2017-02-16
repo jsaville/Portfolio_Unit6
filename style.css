@@ -17,7 +17,7 @@ body {
 .gallery > div {
   position: relative;
   float: left;
-  padding: 5px;
+  padding: 20px;
 }
 
 .gallery > div > img {
